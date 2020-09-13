@@ -5,6 +5,8 @@
 
 /* @(#) $Id$ */
 
+/* Modified for learning */
+
 #define ZLIB_INTERNAL
 #include "zlib.h"
 
